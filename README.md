@@ -6,22 +6,6 @@
 
 Olá, me chamo Eduardo Lucca. Sou um Desenvolvedor Backend de Brasília-DF, focado em construir soluções robustas e escaláveis com Java e o ecossistema Spring. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir com projetos inovadores.
 
-<p align="left">
-    <a href="https://github.com/edulucca?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/edulucca?color=000080&style=for-the-badge&labelColor=00005A&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/edulucca?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/edulucca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ## Estatísticas
 <br>
